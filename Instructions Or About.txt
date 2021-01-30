@@ -1,0 +1,10 @@
+How To Play This Game?
+Press 'Space' To Jump The Robot
+And The Clouds Will Be Coming Also
+If You Touch The Clouds Then You Will Out And The Score Start From 0
+If You Jump Over The Clouds Then Your Score Will Increased
+About 
+The Project Is Made By ttm. Developer
+Don't Copy
+Thanks
+From ttm. Developer
